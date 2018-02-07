@@ -1,0 +1,45 @@
+
+.jumbotron{
+	background-color: #33CCFF;
+	margin-bottom: 0;
+	padding: 0;
+}
+.navbar {
+	border-radius: 0;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color:white
+}
+.navbar li:hover{
+	background-color: #00CCFF;
+} 
+.navbar li:active{
+	background-color: #00CCFF;
+}
+.panel-footer {
+	background-color: none;
+}
+.img-responsive {
+	max-height: 350px;
+	max-width: 200px;
+	min-height: 350px;
+	min-width: 200px;
+	margin-left: 10%;
+    margin-right: 10%;
+}
+a:hover {
+	text-decoration: none;
+}
+footer{
+	background-color: #33CCFF;
+	padding: 20px;
+}
+footer li {
+	padding: 10px;
+}
+footer ul li{
+	list-style-type: none;
+}
+footer ul li a{
+	color: black;
+}
